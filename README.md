@@ -31,3 +31,7 @@ This project aligns with responsibilities such as:
 
 ## Visualization and Reporting
 Prepared clear visual summaries and written reports to validate data quality and communicate key insights to education stakeholders, supporting data-driven decision-making and program improvement initiatives.
+
+## File Link
+-.ipynb version:  [student_performance_factors_cleaning.ipynb](./student_performance_factors_cleaning.ipynb)
+-HTML version for a clearer view: 
