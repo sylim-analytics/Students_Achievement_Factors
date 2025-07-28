@@ -10,14 +10,13 @@ This project aligns with responsibilities such as:
 
 ## Data Cleaning & Preparation
 
-- Handled missing values using imputation (e.g., replacing with median or most frequent value) for `Teacher_Quality`, `Distance_from_Home`, and others
-- Standardized column names to snake_case
-- Removed duplicate rows
-- Checked distributions and normality for numeric features
-- Identified and removed extreme outliers using the IQR method (Q1 - 1.5*IQR, Q3 + 1.5*IQR)
+- Imputed missing values in variables such as Teacher_Quality, Distance_from_Home, and Parental_Education_Level using median or most frequent values- Standardized column names to snake_case
+- Standardized column names to snake_case for consistency
+- Assessed distributions and tested normality using Anderson-Darling test
+- Applied Box-Cox transformation to normalize skewed numerical features and address outliers
 - Encoded binary variables using 0/1 mapping
 - Applied ordinal encoding for ranked categorical variables
-- Standardized numerical features to support fair comparisons and modeling
+- Standardized numerical features post-transformation to support fair comparisons and modeling
 
 ## Exploratory Data Analysis (EDA)
 
