@@ -33,8 +33,9 @@ This project aligns with responsibilities such as:
 Prepared clear visual summaries and written reports to validate data quality and communicate key insights to education stakeholders, supporting data-driven decision-making and program improvement initiatives.
 
 ## File Link
-- .ipynb version:  [student_performance_factors_cleaning.ipynb](./student_performance_factors_cleaning.ipynb)
-- HTML version for a clearer view: [student_performance_factors_cleaning.html](./student_performance_factors_cleaning.html)  *Note: The HTML file can be downloaded and opened in a browser for a clearer, formatted view.*
+- .ipynb version: [student_performance_factors_cleaning.ipynb](./student_performance_factors_cleaning.ipynb)
+- HTML version for a clearer view: [student_performance_factors_cleaning.html](./student_performance_factors_cleaning.html)  
+*Note: The HTML file can be downloaded and opened in a browser for a clearer, formatted view.*
 - Full version: [Students_Achievement_Factors_Full.ipynb](./Students_Achievement_Factors_Full.ipynb)
 
 
